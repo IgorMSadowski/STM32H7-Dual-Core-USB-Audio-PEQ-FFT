@@ -1,0 +1,44 @@
+[
+    {
+        "id": "05054e9cf7a2da68",
+        "type": "serial in",
+        "z": "7c805a764163a9ef",
+        "name": "FFT In",
+        "serial": "7eda95bc7befcfbb",
+        "x": 90,
+        "y": 240,
+        "wires": [
+            [
+                "6cf081f22b8c5eee"
+            ]
+        ]
+    },
+    {
+        "id": "7eda95bc7befcfbb",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "/dev/ttyACM0",
+        "serialbaud": "115200",
+        "databits": 8,
+        "parity": "none",
+        "stopbits": 1,
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": 10000
+    },
+    {
+        "id": "08f381310d3fa6e1",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-node-serialport": "2.0.3"
+        }
+    }
+]
