@@ -69,7 +69,6 @@ static float32_t band_bins_float[NUM_BANDAS + 1];
 const float32_t min_freq = 20.0f;
 const float32_t max_freq = 20000.0f;
 const float32_t hz_por_bin = 48000.0f / FFT_SIZE; // ~11.72 Hz por bin
-
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/

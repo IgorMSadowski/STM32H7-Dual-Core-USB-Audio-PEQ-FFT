@@ -1,0 +1,14 @@
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:494:17:USBD_AUDIO_GetCfgDesc	1
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:508:16:USBD_AUDIO_DataIn	2
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:526:16:USBD_AUDIO_EP0_RxReady	4
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:556:16:USBD_AUDIO_EP0_TxReady	1
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:611:16:USBD_AUDIO_IsoINIncomplete	1
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:769:17:USBD_AUDIO_GetDeviceQualifierDesc	1
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:625:16:USBD_AUDIO_IsoOutIncomplete	2
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:569:16:USBD_AUDIO_SOF	1
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:650:16:USBD_AUDIO_DataOut	7
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:368:16:USBD_AUDIO_Setup	21
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:331:16:USBD_AUDIO_DeInit	2
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:247:16:USBD_AUDIO_Init	3
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:583:6:USBD_AUDIO_Sync	5
+/home/TK-isadowski/STM32CubeIDE/workspace_1.19.0/AudioTest_I2S_USB_Test1/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:782:9:USBD_AUDIO_RegisterInterface	2

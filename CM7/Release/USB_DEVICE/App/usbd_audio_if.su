@@ -1,0 +1,15 @@
+../USB_DEVICE/App/usbd_audio_if.c:268:15:AUDIO_DeInit_FS	0	static
+../USB_DEVICE/App/usbd_audio_if.c:332:15:AUDIO_VolumeCtl_FS	0	static
+../USB_DEVICE/App/usbd_audio_if.c:385:15:AUDIO_GetState_FS	0	static
+../USB_DEVICE/App/usbd_audio_if.c:283:15:AUDIO_AudioCmd_FS	16	static,ignoring_inline_asm
+../USB_DEVICE/App/usbd_audio_if.c:345:15:AUDIO_MuteCtl_FS	0	static
+../USB_DEVICE/App/usbd_audio_if.c:396:6:TransferComplete_CallBack_FS	0	static
+../USB_DEVICE/App/usbd_audio_if.c:407:6:HalfTransfer_CallBack_FS	0	static
+../USB_DEVICE/App/usbd_audio_if.c:415:6:convert_to_32bit_and_copy	48	static,ignoring_inline_asm
+../USB_DEVICE/App/usbd_audio_if.c:358:15:AUDIO_PeriodicTC_FS	16	static
+../USB_DEVICE/App/usbd_audio_if.c:455:6:USBD_AUDIO_Feedback_SOF	0	static,ignoring_inline_asm
+../USB_DEVICE/App/usbd_audio_if.c:508:6:CalcBiquadCoeffs	56	static
+../USB_DEVICE/App/usbd_audio_if.c:552:6:Update_EQ_Coefficients	32	static
+../USB_DEVICE/App/usbd_audio_if.c:249:15:AUDIO_Init_FS	8	static
+../USB_DEVICE/App/usbd_audio_if.c:567:6:HAL_SAI_TxHalfCpltCallback	0	static
+../USB_DEVICE/App/usbd_audio_if.c:576:6:HAL_SAI_TxCpltCallback	0	static
